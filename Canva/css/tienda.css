@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+}
+
+.fondo{
+  background-color: #041424;
+}
+
+.canvas {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: 500px !important;
+  max-height: 700px !important;
+  object-fit: cover !important;
+
+  margin-top: 1%; 
+}
